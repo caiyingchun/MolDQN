@@ -1,4 +1,5 @@
 # MolDQN
+A fork from https://github.com/google-research/google-research/tree/master/mol_dqn
 
 This package contains libraries and scripts for reproducing the results
 described in Zhou Z, Kearnes S, Li L, Zare RN, Riley P. Optimization of
